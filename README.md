@@ -4,7 +4,7 @@
 
 <!-- Currently works -->
 
-- 🔭 I’m currently learning JavaScript. I intend to improve myself on MVC architecture </br> </br>
+- 🔭 I’m currently learning Web Development. I intend to improve myself on MVC architecture </br> </br>
 
 <!-- General Informations -->
 
